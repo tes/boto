@@ -152,6 +152,13 @@ Release Notes
 .. toctree::
    :titlesonly:
 
+   releasenotes/v2.48.0
+   releasenotes/v2.47.0
+   releasenotes/v2.46.1
+   releasenotes/v2.46.0
+   releasenotes/v2.45.0
+   releasenotes/v2.44.0
+   releasenotes/v2.43.0
    releasenotes/v2.42.0
    releasenotes/v2.41.0
    releasenotes/v2.40.0
